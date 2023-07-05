@@ -1,5 +1,7 @@
 # Vedant's Social Links
 
+- Portfolio: https://vedantxportfolio.framer.ai
+  
 - LinkedIn: https://www.linkedin.com/in/vedant-pawar/
 
 - Github: https://github.com/codderv006
